@@ -1,6 +1,6 @@
 <h1 align="left">👨‍💻 João Pedro</h1> <p align="left"> <img src="https://img.shields.io/badge/Desenvolvedor-Front--End-blueviolet?style=for-the-badge" /> </p> <p align="center"> Estudante de Ciência da Computação da Estácio (4º semestre, formatura prevista para 2028). Sou formado Técnico em Análise e Desenvolvimento de Sistemas pelo Firjan Senai e tenho experiência em desenvolvimento <b>front-end</b>. Atualmente estou construindo meu portfólio. </p> <p align="center"> <a href="https://github.com/JOTACARDOSSOO"> <img src="https://img.shields.io/github/followers/JOTACARDOSSOO?label=SEGUIDORES&style=for-the-badge&color=blue" /> </a> </p> <hr>
 🤖 Linguagens e Tecnologias
-<div style="height: 20px;"></div> <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" /> </p>
+<div style="height: 40px;"></div> <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" /> </p>
 📊 Estatísticas
 <div style="height: 20px;"></div> <p align="left"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JOTACARDOSSOO&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JOTACARDOSSOO&layout=compact&theme=radical&hide_border=true" /> </p>
 📫 Contato
