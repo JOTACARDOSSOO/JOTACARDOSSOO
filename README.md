@@ -30,7 +30,8 @@ Sou formado como Técnico em Análise e Desenvolvimento de Sistemas pelo Firjan 
 
 <hr>
 
-## 🤖 Linguagens e Tecnologias
+
+### 🤖 Linguagens e Tecnologias
 <br>
 <p align="left" style="margin-top: 8px;">
   <img src="https://skillicons.dev/icons?i=html" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +43,7 @@ Sou formado como Técnico em Análise e Desenvolvimento de Sistemas pelo Firjan 
 </p>
 <br>
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 <br>
 <p align="left" style="margin-top: 8px;">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JOTACARDOSSOO&show_icons=true&theme=radical&hide_border=true" />
