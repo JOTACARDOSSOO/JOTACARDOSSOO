@@ -1,9 +1,13 @@
-<h1 align="left">👨🏻‍💻 João Pedro</h1> <p align="left"> <img src="https://img.shields.io/badge/Desenvolvedor-Front--End-blueviolet?style=for-the-badge" /> </p> <p align="center"> Estudante de Ciência da Computação da Estácio (4º semestre, formatura prevista para 2028). Sou formado Técnico em Análise e Desenvolvimento de Sistemas pelo Firjan Senai e tenho experiência em desenvolvimento <b>front-end</b>. Atualmente estou construindo meu portfólio, com destaque para o <b>S.A.L (Sistema de Alocação de Laboratórios)</b>, um CRUD completo com login para gerenciamento de agendamento de laboratórios. </p> <p align="center"> <a href="https://github.com/JOTACARDOSSOO"> <img src="https://img.shields.io/github/followers/JOTACARDOSSOO?label=SEGUIDORES&style=for-the-badge&color=blue" /> </a> </p> <hr>
+<h1 align="left">👨‍💻 João Pedro</h1> <p align="left"> <img src="https://img.shields.io/badge/Desenvolvedor-Front--End-blueviolet?style=for-the-badge" /> </p> <p align="center"> Estudante de Ciência da Computação da Estácio (4º semestre, formatura prevista para 2028). Sou formado Técnico em Análise e Desenvolvimento de Sistemas pelo Firjan Senai e tenho experiência em desenvolvimento <b>front-end</b>. Atualmente estou construindo meu portfólio. </p> <p align="center"> <a href="https://github.com/JOTACARDOSSOO"> <img src="https://img.shields.io/github/followers/JOTACARDOSSOO?label=SEGUIDORES&style=for-the-badge&color=blue" /> </a> </p> <hr>
 🤖 Linguagens e Tecnologias
-<br> <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" /> </p>
+
+<br><br>
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" /> </p>
 📊 Estatísticas
-<br> <p align="left"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JOTACARDOSSOO&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JOTACARDOSSOO&layout=compact&theme=radical&hide_border=true" /> </p>
-📌 Fixados
-🗂️ S.A.L — Sistema de Alocação de Laboratórios: CRUD com login para gerenciamento de agendamento de laboratórios, construído com HTML, CSS, JavaScript e LocalStorage, com código modularizado.
+
+<br><br>
+
+<p align="left"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JOTACARDOSSOO&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JOTACARDOSSOO&layout=compact&theme=radical&hide_border=true" /> </p>
 📫 Contato
 <p align="left"> <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-miranda-cardoso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:jp.joaopedro0508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
