@@ -8,4 +8,4 @@
 📌 Fixados
 🗂️ S.A.L — Sistema de Alocação de Laboratórios: CRUD com login para gerenciamento de agendamento de laboratórios, construído com HTML, CSS, JavaScript e LocalStorage, com código modularizado.
 📫 Contato
-<p align="left"> <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/jo%C3%A3o-pedro-miranda-cardoso/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-miranda-cardoso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
