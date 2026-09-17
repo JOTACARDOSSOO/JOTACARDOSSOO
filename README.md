@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 João Pedro</h1>
+<h1 align="left">👨🏻‍💻 João Pedro</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Desenvolvedor-Front--End-blueviolet?style=for-the-badge" />
