@@ -1,16 +1,11 @@
-## Hi there 👋
+## João Pedro
 
-<!--
-**JOTACARDOSSOO/JOTACARDOSSOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">👨‍💻 João Pedro</h1> <p align="center"> <img src="https://img.shields.io/badge/Desenvolvedor-FullStack-blueviolet?style=for-the-badge" /> </p> <p align="center"> Estudante de Ciência da Computação na Estácio (4º semestre, formatura prevista para 2028). Sou formado em Análise e Desenvolvimento de Sistemas pelo Firjan Senai e tenho experiência em desenvolvimento <b>front-end</b> e <b>back-end</b>. Atualmente estou construindo meu portfólio, com destaque para o <b>S.A.L (Sistema de Alocação de Laboratórios)</b>, um CRUD completo com login para gerenciamento de agendamento de laboratórios. </p> <p align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=blue" /> </a> <a href="https://github.com/SEU_USUARIO?tab=repositories"> <img src="https://img.shields.io/github/stars/SEU_USUARIO?label=ESTRELAS&style=for-the-badge&color=green" /> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin" /> </a> </p> <hr>
+🤖 Linguagens e Tecnologias
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,sql,git,github" /> </p>
+📊 Estatísticas
+<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" /> </p>
+📌 Fixados
+🗂️ S.A.L — Sistema de Alocação de Laboratórios: CRUD com login para gerenciamento de agendamento de laboratórios, construído com HTML, CSS, JavaScript e LocalStorage, com código modularizado.
+📫 Contato
+<p align="left"> <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
