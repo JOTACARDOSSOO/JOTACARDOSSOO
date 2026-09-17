@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  Estudante de Ciência da Computação da Estácio (4º semestre, formatura prevista para 2028). Sou formado Técnico em Análise e Desenvolvimento de Sistemas pelo Firjan Senai e tenho experiência em desenvolvimento <b>front-end</b>. Atualmente estou construindo meu portfólio.
+Olá! Me chamo João Pedro de Miranda Cardoso, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, curso Ciência da Computação na Estácio de Sá, em Niterói, e estou no 4º semestre, com previsão de formatura para 2028.
+
+Sou formado como Técnico em Análise e Desenvolvimento de Sistemas pelo Firjan SENAI e tenho conhecimentos e experiência em desenvolvimento <Front-End>. Atualmente, estou desenvolvendo meu portfólio e aprimorando continuamente minhas habilidades na área de tecnologia e programação.
+
 </p>
 
 <p align="center">
